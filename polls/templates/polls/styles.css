@@ -1,0 +1,8 @@
+ul, li {
+  list-style-type: square;
+  border: 5px solid black;
+}
+
+h1 {
+  color: HotPink;
+}
